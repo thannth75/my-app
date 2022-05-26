@@ -13,11 +13,10 @@ const App = function() {
       <div className="container-login">
         <div className="wrap-login">
           <form className="login-form">
-            <span className="login-form-title"> Bem vindo </span>
-
             <span className="login-form-title">
              <img src={logoimg} alt="Out Off the Red" />
             </span>
+            <span className="login-form-title"> Bem vindo </span>
 
             <div className="wrap-input">
               <input
